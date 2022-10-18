@@ -1,0 +1,26 @@
+Project Flow
+  Project Flow:
+
+     - The user interacts with the UI (User Interface) to upload the image as input
+     - The uploaded image is analyzed by the model which is integrated
+     - Once the model analyses the uploaded image, the prediction is showcased on the UI
+
+
+To accomplish this, we have to complete all the activities and tasks listed below
+
+  - Understanding the data.
+      - Importing the required libraries
+      - Loading the data
+      - Analyzing the data
+      - Reshaping the data.
+      - Applying One Hot Encoding
+  - Model Building
+      - Creating the model and adding the input, hidden and output layers to it
+      - Compiling the model
+      - Training the model
+      - Predicting the result
+      - Testing the model by taking image inputs
+      - Saving the model
+  - Application Building
+      - Create an HTML file
+      - Build Python Code
